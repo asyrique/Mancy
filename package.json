@@ -61,7 +61,7 @@
     "jest-cli": "^24.9.0",
     "node-sass": "^4.12.0",
     "react-tools": "0.13.3",
-    "run-sequence": "^1.1.2",
+    "run-sequence": "^2.2.1",
     "semver": "^5.0.3"
   },
   "dependencies": {
