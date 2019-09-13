@@ -76,7 +76,7 @@
     "codemirror": "^5.13.0",
     "coffee-script": "https://github.com/princejwesley/coffeescript.git",
     "font-awesome": "^4.5.0",
-    "font-manager": "^0.2.2",
+    "font-manager": "^0.3.0",
     "github": "^0.2.4",
     "is-css-color": "^1.0.0",
     "livescript": "^1.4.0",
