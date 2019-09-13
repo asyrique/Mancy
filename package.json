@@ -44,7 +44,7 @@
     "del": "^2.0.2",
     "devtron": "^1.0.0",
     "electron-packager": "^8.0.0",
-    "electron": "^1.4.15",
+    "electron": "^6.0.9",
     "electron-rebuild": "^1.5.7",
     "gulp": "^3.9.0",
     "gulp-babel": "^6.1.1",
