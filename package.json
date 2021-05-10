@@ -74,7 +74,7 @@
     "babel-runtime": "^6.9.1",
     "c3": "https://github.com/princejwesley/c3.git",
     "cljs-mancy": "^1.0.0",
-    "codemirror": "^5.13.0",
+    "codemirror": "^5.58.2",
     "coffee-script": "https://github.com/princejwesley/coffeescript.git",
     "font-awesome": "^4.5.0",
     "font-manager": "^0.3.0",
