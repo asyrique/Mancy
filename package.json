@@ -86,7 +86,7 @@
     "parinfer": "^1.7.0",
     "react": "^0.13.3",
     "reflux": "^0.2.12",
-    "typescript": "^1.8.2",
+    "typescript": "^4.3.5",
     "yargs": "^3.32.0"
   },
   "settings": {
